@@ -14,11 +14,12 @@ class Factorial {
 	}
 	
 	/*this is a recursive function that calculates
-	  the factorial of given number
+	  the factorial of given number.
 	*/
 	public static int fact(int n) {
 		if(n==1) 
 			return 1;
+		//recursive call
 		return n*fact(n-1);
 	}
 }
