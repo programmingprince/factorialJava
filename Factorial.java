@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-//java program to calculate factorial of a number
-//Programmer - ProgrammingPrince, Nepal
+/*java program to calculate factorial of a number
+  Programmer - ProgrammingPrince, Nepal
+*/
 
 class Factorial {
 	public static void main(String[] args) {
