@@ -13,8 +13,9 @@ class Factorial {
 		System.out.println("\nFactorial: "+fact(num));
 	}
 	
-
-	//recursive function
+	/*this is a recursive function that calculates
+	  the factorial of given number
+	*/
 	public static int fact(int n) {
 		if(n==1) 
 			return 1;
